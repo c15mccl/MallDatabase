@@ -1,0 +1,8 @@
+drop table STORE cascade constraints;
+drop table MANAGER cascade constraints;
+drop table EMPLOYEES cascade constraints;
+drop table CUSTOMER cascade constraints;
+drop table SHOP;
+drop table PROTECT;
+drop table SECURITY;
+drop table ASSIST;
